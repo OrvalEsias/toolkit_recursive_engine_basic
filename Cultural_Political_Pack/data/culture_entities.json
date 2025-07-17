@@ -1,0 +1,34 @@
+[
+  {
+    "type": "culture",
+    "name": "NeoTide",
+    "traits": [
+      "individualist",
+      "tech-emergent",
+      "ritual-light"
+    ],
+    "growth_pattern": "adaptive_innovation",
+    "symbolic_codes": [
+      "neon tattoos",
+      "data rites",
+      "dream sharing"
+    ],
+    "influence_radius": 2
+  },
+  {
+    "type": "culture",
+    "name": "IronBloom",
+    "traits": [
+      "communal",
+      "tradition-heavy",
+      "scarcity-hardened"
+    ],
+    "growth_pattern": "resilience_loop",
+    "symbolic_codes": [
+      "forge festivals",
+      "ancestor veneration",
+      "code of iron"
+    ],
+    "influence_radius": 3
+  }
+]

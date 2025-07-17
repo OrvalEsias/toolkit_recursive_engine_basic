@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Kael Vint",
+    "associated_with": "NeoTide",
+    "role": "Cultural Shaper",
+    "arc": [
+      "apprentice hacker",
+      "underground symbolist",
+      "cultural visionary"
+    ],
+    "conflict": "Rejects IronBloom elders' tradition, builds new symbolic code"
+  },
+  {
+    "name": "Threna Coalgrip",
+    "associated_with": "IronBloom",
+    "role": "Tradition Bearer",
+    "arc": [
+      "forge acolyte",
+      "ritual enforcer",
+      "cultural synthesizer"
+    ],
+    "conflict": "Tries to preserve identity as her people absorb NeoTide customs"
+  },
+  {
+    "name": "Rikso Ratblade",
+    "associated_with": "The Shivs",
+    "role": "Gang Lieutenant",
+    "arc": [
+      "street orphan",
+      "shiv leader",
+      "martyr of uprising"
+    ],
+    "conflict": "Wants freedom but only knows violence"
+  },
+  {
+    "name": "Vel Gorda",
+    "associated_with": "Crown Zero",
+    "role": "Underworld Broker",
+    "arc": [
+      "runner",
+      "gold tongue",
+      "merchant king"
+    ],
+    "conflict": "Corrupts civic systems to keep power, but loses loyalty"
+  },
+  {
+    "name": "Senator Vorka",
+    "associated_with": "Federal Triad",
+    "role": "Stability Politician",
+    "arc": [
+      "civic idealist",
+      "compromiser",
+      "oppressor in name of order"
+    ],
+    "conflict": "Fights chaos but births tyranny"
+  },
+  {
+    "name": "Maera Yen",
+    "associated_with": "Collapse of East Sector",
+    "role": "Displaced Activist",
+    "arc": [
+      "sector citizen",
+      "migrant rebel",
+      "founder of New Accord"
+    ],
+    "conflict": "Turns tragedy into political realignment"
+  }
+]

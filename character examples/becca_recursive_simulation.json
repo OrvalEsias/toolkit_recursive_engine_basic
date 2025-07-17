@@ -1,0 +1,55 @@
+{
+  "name": "Becca",
+  "core_trait": "introversion",
+  "primary_trait": "intuition",
+  "secondary_trait": "feeling",
+  "function_stack": [
+    "diff",
+    "aux_positive",
+    "aux_negative",
+    "undiff"
+  ],
+  "symbolic_role": "anima",
+  "transformation_log": [
+    {
+      "step": 1,
+      "event": "betrayal_by_trusted",
+      "phase": "diff \u2192 aux_negative",
+      "symbol": "anima \u2192 shadow-anima",
+      "traits": {
+        "introversion": 0.8,
+        "intuition": 0.8,
+        "feeling": 0.4
+      }
+    },
+    {
+      "step": 2,
+      "event": "self_reclamation_ritual",
+      "phase": "aux_negative \u2192 aux_positive",
+      "symbol": "shadow-anima \u2192 wounded-sage",
+      "traits": {
+        "introversion": 0.7,
+        "intuition": 0.8,
+        "feeling": 0.7
+      }
+    },
+    {
+      "step": 3,
+      "event": "vision_of_future_self",
+      "phase": "aux_positive \u2192 undiff",
+      "symbol": "wounded-sage \u2192 transcendent",
+      "traits": {
+        "introversion": 0.7,
+        "intuition": 0.8,
+        "feeling": 0.7
+      }
+    }
+  ],
+  "current_state": {
+    "introversion": 0.7000000000000001,
+    "intuition": 0.7999999999999999,
+    "feeling": 0.7,
+    "symbol": "transcendent",
+    "phase": "undiff"
+  }
+}

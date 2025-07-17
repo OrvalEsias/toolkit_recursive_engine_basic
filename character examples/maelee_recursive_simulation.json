@@ -1,0 +1,55 @@
+{
+  "name": "Maelee",
+  "core_trait": "extroversion",
+  "primary_trait": "sensation",
+  "secondary_trait": "feeling",
+  "function_stack": [
+    "diff",
+    "aux_negative",
+    "aux_positive",
+    "undiff"
+  ],
+  "symbolic_role": "child",
+  "transformation_log": [
+    {
+      "step": 1,
+      "event": "witness_violence",
+      "phase": "diff \u2192 aux_negative",
+      "symbol": "child \u2192 orphan",
+      "traits": {
+        "extroversion": 0.7,
+        "sensation": 0.5,
+        "feeling": 0.3
+      }
+    },
+    {
+      "step": 2,
+      "event": "encounter_mirror_self",
+      "phase": "aux_negative \u2192 aux_positive",
+      "symbol": "orphan \u2192 seeker",
+      "traits": {
+        "extroversion": 0.6,
+        "sensation": 0.5,
+        "feeling": 0.7
+      }
+    },
+    {
+      "step": 3,
+      "event": "embraced_by_motherly_woman",
+      "phase": "aux_positive \u2192 undiff",
+      "symbol": "seeker \u2192 healed",
+      "traits": {
+        "extroversion": 0.6,
+        "sensation": 0.5,
+        "feeling": 0.7
+      }
+    }
+  ],
+  "current_state": {
+    "extroversion": 0.6,
+    "sensation": 0.5,
+    "feeling": 0.7,
+    "symbol": "healed",
+    "phase": "undiff"
+  }
+}

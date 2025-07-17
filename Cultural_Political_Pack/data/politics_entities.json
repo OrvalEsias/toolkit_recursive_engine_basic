@@ -1,0 +1,32 @@
+[
+  {
+    "type": "political_actor",
+    "name": "Senator Vorka",
+    "faction": "Federal Triad",
+    "ideology": "stability-first",
+    "role": "senator",
+    "influence_zones": [
+      "Central District",
+      "Trade Halls"
+    ],
+    "symbols": [
+      "scale pin",
+      "tricolor sash"
+    ],
+    "policies": [
+      "tech trade subsidies",
+      "strict gang regulation"
+    ]
+  },
+  {
+    "type": "political_event",
+    "name": "Collapse of East Sector",
+    "trigger": "economic overreach",
+    "effects": [
+      "gang surge",
+      "migration",
+      "political fragmentation"
+    ],
+    "duration": 12
+  }
+]

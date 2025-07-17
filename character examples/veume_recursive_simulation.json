@@ -1,0 +1,55 @@
+{
+  "name": "Veume",
+  "core_trait": "introversion",
+  "primary_trait": "thinking",
+  "secondary_trait": "intuition",
+  "function_stack": [
+    "diff",
+    "aux_negative",
+    "aux_positive",
+    "undiff"
+  ],
+  "symbolic_role": "shadow",
+  "transformation_log": [
+    {
+      "step": 1,
+      "event": "loss_of_control",
+      "phase": "diff \u2192 aux_negative",
+      "symbol": "shadow \u2192 tyrant",
+      "traits": {
+        "introversion": 0.8,
+        "thinking": 0.7,
+        "intuition": 0.5
+      }
+    },
+    {
+      "step": 2,
+      "event": "obsession_with_order",
+      "phase": "aux_negative \u2192 aux_positive",
+      "symbol": "tyrant \u2192 architect",
+      "traits": {
+        "introversion": 0.75,
+        "thinking": 0.8,
+        "intuition": 0.6
+      }
+    },
+    {
+      "step": 3,
+      "event": "confrontation_with_other",
+      "phase": "aux_positive \u2192 undiff",
+      "symbol": "architect \u2192 disarmed",
+      "traits": {
+        "introversion": 0.7,
+        "thinking": 0.75,
+        "intuition": 0.6
+      }
+    }
+  ],
+  "current_state": {
+    "introversion": 0.7,
+    "thinking": 0.75,
+    "intuition": 0.6,
+    "symbol": "disarmed",
+    "phase": "undiff"
+  }
+}

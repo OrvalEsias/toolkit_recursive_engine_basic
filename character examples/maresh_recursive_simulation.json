@@ -1,0 +1,55 @@
+{
+  "name": "Maresh",
+  "core_trait": "extroversion",
+  "primary_trait": "intuition",
+  "secondary_trait": "sensation",
+  "function_stack": [
+    "diff",
+    "aux_positive",
+    "aux_negative",
+    "undiff"
+  ],
+  "symbolic_role": "auxiliary",
+  "transformation_log": [
+    {
+      "step": 1,
+      "event": "rising_to_defend",
+      "phase": "diff \u2192 aux_positive",
+      "symbol": "auxiliary \u2192 champion",
+      "traits": {
+        "extroversion": 0.8,
+        "intuition": 0.6,
+        "sensation": 0.5
+      }
+    },
+    {
+      "step": 2,
+      "event": "crisis_of_faith",
+      "phase": "aux_positive \u2192 aux_negative",
+      "symbol": "champion \u2192 fallen_guardian",
+      "traits": {
+        "extroversion": 0.7,
+        "intuition": 0.5,
+        "sensation": 0.4
+      }
+    },
+    {
+      "step": 3,
+      "event": "acts_of_mercy",
+      "phase": "aux_negative \u2192 undiff",
+      "symbol": "fallen_guardian \u2192 wise_fool",
+      "traits": {
+        "extroversion": 0.65,
+        "intuition": 0.6,
+        "sensation": 0.4
+      }
+    }
+  ],
+  "current_state": {
+    "extroversion": 0.65,
+    "intuition": 0.6,
+    "sensation": 0.4,
+    "symbol": "wise_fool",
+    "phase": "undiff"
+  }
+}

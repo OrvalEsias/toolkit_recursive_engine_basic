@@ -1,0 +1,34 @@
+[
+  {
+    "type": "gang",
+    "name": "The Shivs",
+    "structure": "cellular",
+    "ethos": "survival by strike",
+    "symbols": [
+      "shiv mark",
+      "blood rite",
+      "rat cloak"
+    ],
+    "territory": "South Sink",
+    "allies": [],
+    "enemies": [
+      "Order Division"
+    ]
+  },
+  {
+    "type": "gang",
+    "name": "Crown Zero",
+    "structure": "pyramid",
+    "ethos": "profit over all",
+    "symbols": [
+      "coin eye",
+      "drip gold",
+      "black tongue"
+    ],
+    "territory": "Spire Markets",
+    "allies": [
+      "Veiled Syndic"
+    ],
+    "enemies": []
+  }
+]

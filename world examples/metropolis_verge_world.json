@@ -1,0 +1,61 @@
+{
+  "world_name": "Metropolis Verge",
+  "world_traits": {
+    "individualism": 0.6,
+    "collectivism": 0.4,
+    "media_signal": 0.8,
+    "spiritual_noise": 0.3
+  },
+  "regions": [
+    {
+      "name": "East Halo District",
+      "symbolic_state": "broadcasted",
+      "traits": {
+        "media_signal": 0.9,
+        "individualism": 0.7
+      },
+      "known_events": [
+        {
+          "event": "viral_wake_incident",
+          "impact": "media_signal+0.1"
+        },
+        {
+          "event": "mass_layoffs_streamcorp",
+          "impact": "individualism+0.2"
+        }
+      ]
+    },
+    {
+      "name": "Old Eden Line",
+      "symbolic_state": "haunted",
+      "traits": {
+        "spiritual_noise": 0.7,
+        "collectivism": 0.6
+      },
+      "known_events": [
+        {
+          "event": "subway_s\u00e9ance",
+          "impact": "spiritual_noise+0.2"
+        },
+        {
+          "event": "mutual_aid_exodus",
+          "impact": "collectivism+0.3"
+        }
+      ]
+    }
+  ],
+  "recent_world_events": [
+    {
+      "event": "Signal_Collapse",
+      "trigger": "rupture_in_saturation",
+      "effect": {
+        "media_signal": -0.2,
+        "spiritual_noise": 0.2
+      },
+      "linked_characters": [
+        "Veume",
+        "Maresh"
+      ]
+    }
+  ]
+}

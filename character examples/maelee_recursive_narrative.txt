@@ -1,0 +1,28 @@
+Step 1: isolation_in_ruins
+  ➤ Trigger: rupture
+  ➤ Phase: diff
+  ➤ Symbol: child-anima
+  ➤ Traits: {'trust': 0.2, 'fear': 0.8, 'curiosity': 0.6}
+  ➤ Scene: Maelee wanders alone, eyes wide, lost in the ruin of the old world.
+
+Step 2: vision_of_mirror_self
+  ➤ Trigger: resonance
+  ➤ Phase: aux_negative
+  ➤ Symbol: fractured-anima
+  ➤ Traits: {'trust': 0.1, 'fear': 0.9, 'curiosity': 0.7}
+  ➤ Scene: She sees a broken mirror image of herself — older, worn, but enduring — and feels something crack inside.
+
+Step 3: encounter_with_motherly_stranger
+  ➤ Trigger: integration
+  ➤ Phase: aux_positive
+  ➤ Symbol: integrating-anima
+  ➤ Traits: {'trust': 0.5, 'fear': 0.4, 'curiosity': 0.8}
+  ➤ Scene: A warm, older woman resembling her mother appears from the mist. Maelee instinctively walks toward her.
+
+Step 4: embrace_and_fade
+  ➤ Trigger: undifferentiation
+  ➤ Phase: undiff
+  ➤ Symbol: reconciled-anima
+  ➤ Traits: {'trust': 0.9, 'fear': 0.1, 'curiosity': 0.9}
+  ➤ Scene: Maelee embraces the woman — a fusion of self and other — and dissolves into a calm inner light.
+

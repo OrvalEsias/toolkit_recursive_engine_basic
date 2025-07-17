@@ -1,0 +1,18 @@
+Time Step 1: Event = witness_violence
+  ➤ Phase: diff → aux_negative
+  ➤ Symbol: child → orphan
+  ➤ Traits: {'extroversion': 0.7, 'sensation': 0.5, 'feeling': 0.3}
+  ➤ Log saved.
+
+Time Step 2: Event = encounter_mirror_self
+  ➤ Phase: aux_negative → aux_positive
+  ➤ Symbol: orphan → seeker
+  ➤ Traits: {'extroversion': 0.6, 'sensation': 0.5, 'feeling': 0.7}
+  ➤ Log saved.
+
+Time Step 3: Event = embraced_by_motherly_woman
+  ➤ Phase: aux_positive → undiff
+  ➤ Symbol: seeker → healed
+  ➤ Traits: {'extroversion': 0.6, 'sensation': 0.5, 'feeling': 0.7}
+  ➤ Log saved.
+
