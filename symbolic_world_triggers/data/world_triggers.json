@@ -1,0 +1,50 @@
+{
+    "plague_spread": {
+        "from": "fertile",
+        "to": "withered"
+    },
+    "hero_departed": {
+        "from": "blessed",
+        "to": "forsaken"
+    },
+    "veil_thinned": {
+        "from": "mundane",
+        "to": "haunted"
+    },
+    "sun_returned": {
+        "from": "withered",
+        "to": "blooming"
+    },
+    "artifact_unearthed": {
+        "from": "forgotten",
+        "to": "remembered"
+    },
+    "dream_awoken": {
+        "from": "dormant",
+        "to": "resonant"
+    },
+    "blood_shed": {
+        "from": "peaceful",
+        "to": "cursed"
+    },
+    "curse_lifted": {
+        "from": "cursed",
+        "to": "cleansed"
+    },
+    "temple_consecrated": {
+        "from": "defiled",
+        "to": "sacred"
+    },
+    "myth_rewritten": {
+        "from": "static",
+        "to": "emergent"
+    },
+    "symbol_corrupted": {
+        "from": "true",
+        "to": "false"
+    },
+    "song_forgotten": {
+        "from": "resonant",
+        "to": "silent"
+    }
+}

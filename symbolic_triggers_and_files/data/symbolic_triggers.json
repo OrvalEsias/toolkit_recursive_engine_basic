@@ -1,0 +1,66 @@
+{
+    "mentor_contact": {
+        "from": "undifferentiated",
+        "to": "aux_primary"
+    },
+    "initiation": {
+        "from": "aux_primary",
+        "to": "differentiated"
+    },
+    "ego_shattered": {
+        "from": "differentiated",
+        "to": "null"
+    },
+    "true_name_spoken": {
+        "from": "aux_secondary",
+        "to": "differentiated"
+    },
+    "false_self_exposed": {
+        "from": "differentiated",
+        "to": "null"
+    },
+    "integration_complete": {
+        "from": "aux_primary",
+        "to": "differentiated"
+    },
+    "return_from_underworld": {
+        "from": "null",
+        "to": "aux_secondary"
+    },
+    "wound_opened": {
+        "from": "differentiated",
+        "to": "aux_secondary"
+    },
+    "wound_healed": {
+        "from": "aux_secondary",
+        "to": "differentiated"
+    },
+    "bond_formed": {
+        "from": "undifferentiated",
+        "to": "aux_primary"
+    },
+    "bond_broken": {
+        "from": "aux_primary",
+        "to": "undifferentiated"
+    },
+    "anima_encountered": {
+        "from": "aux_secondary",
+        "to": "aux_primary"
+    },
+    "map_unfolded": {
+        "from": "intuition",
+        "to": "thinking"
+    },
+    "veil_lifted": {
+        "from": "undifferentiated",
+        "to": "intuition"
+    },
+    "loop_detected": {
+        "from": "aux_primary",
+        "to": "differentiated"
+    },
+    "narrative_broken": {
+        "from": "differentiated",
+        "to": "undifferentiated"
+    }
+}
