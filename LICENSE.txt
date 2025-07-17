@@ -1,0 +1,20 @@
+Copyright © 2025 Eric M. Erbe. All rights reserved.
+
+Permission is hereby granted to any person or organization obtaining a copy of this software and associated documentation files (the "Toolkit"), to use, modify, and distribute the Toolkit for non-commercial purposes only, subject to the following conditions:
+
+1. **Non-Commercial Use Only**: This Toolkit may not be used, in whole or in part, for any commercial purpose without prior written permission and a separate license from the copyright holder.
+
+2. **Attribution**: Any public or private use of the Toolkit must include clear attribution to the original author: Eric M. Erbe.
+
+3. **No Warranty**: This Toolkit is provided "as is", without warranty of any kind, express or implied. The author is not liable for any damages or losses arising from the use of the Toolkit.
+
+4. **Modifications**: Users are free to modify the Toolkit for their own use, provided that:
+   - Such modifications remain under non-commercial use unless otherwise licensed.
+   - Any distributed modified versions must include this original license and attribution.
+
+5. **Commercial Licensing**: For commercial use, integration into commercial software, sale of derivative works, or distribution for profit, a separate license must be obtained by contacting the copyright holder.
+
+This license does not apply to other branches or private components of the ErbeSystem, which are governed by separate licensing terms.
+
+Contact: emerbe3@gmail.com or via the GitHub repository.
+
