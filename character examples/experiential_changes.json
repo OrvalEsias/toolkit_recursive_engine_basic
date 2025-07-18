@@ -1,0 +1,74 @@
+[
+  {
+    "id": "realization",
+    "name": "Realization",
+    "type": "cognitive_shift",
+    "mode": "thinking",
+    "trigger": [
+      "pattern_break",
+      "logical_contradiction",
+      "symbolic_resonance"
+    ],
+    "effect": {
+      "symbolic_change": "clarity",
+      "personality_shift": "increase_awareness",
+      "memory_integration": "connect_past_insight"
+    },
+    "symbolic_role": "logos",
+    "description": "A sudden grasp of structure, pattern, or logic that changes the character\u2019s worldview."
+  },
+  {
+    "id": "revelation",
+    "name": "Revelation",
+    "type": "archetypal_emergence",
+    "mode": "intuition",
+    "trigger": [
+      "dream",
+      "numinous_event",
+      "external_messenger"
+    ],
+    "effect": {
+      "symbolic_change": "archetype_emerges",
+      "personality_shift": "shift_belief_system",
+      "memory_integration": "accept_new_truth"
+    },
+    "symbolic_role": "mythos",
+    "description": "An external or inner disclosure of deep truth, not derived but unveiled."
+  },
+  {
+    "id": "ecstasy",
+    "name": "Ecstasy",
+    "type": "transcendent_experience",
+    "mode": "feeling",
+    "trigger": [
+      "overload_emotion",
+      "ritual",
+      "trauma_breakthrough"
+    ],
+    "effect": {
+      "symbolic_change": "boundary_dissolution",
+      "personality_shift": "temporary_unselfing",
+      "memory_integration": "emotive_imprint"
+    },
+    "symbolic_role": "eros",
+    "description": "A dissolving of ego boundaries; total immersion in overwhelming feeling or experience."
+  },
+  {
+    "id": "recognition",
+    "name": "Recognition",
+    "type": "anamnesis",
+    "mode": "sensation + intuition",
+    "trigger": [
+      "symbol_recurrence",
+      "familiar_stranger",
+      "memory_echo"
+    ],
+    "effect": {
+      "symbolic_change": "restore_inner_map",
+      "personality_shift": "reclaim_identity",
+      "memory_integration": "resurrected_knowledge"
+    },
+    "symbolic_role": "fatum",
+    "description": "The intuitive remembrance of something essential and long-forgotten \u2014 a destiny moment."
+  }
+]
